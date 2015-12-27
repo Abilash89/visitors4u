@@ -1,0 +1,108 @@
+h3{
+
+display : inline-block;
+margin:10px;
+
+}
+
+
+.upperSection 
+
+{
+
+background-image : url(images/comms1.jpg)  ;
+height: 200px;
+background-size: 100%;
+margin-bottom:0;
+}
+
+
+input
+{
+  box-shadow:inset 0 0 1px 0px #eee;
+  background: #fff;
+}
+
+#navHolder 
+{
+
+width: 100%;
+background:#000;
+}
+
+
+
+#nav {
+	width: 800px;
+
+  margin-left: auto ;
+  margin-right: auto ;
+    height:40px;
+	margin-top:0;
+	padding: 0;
+	list-style: none;
+	background-color: #000;
+	border-bottom: 1px solid #ccc; 
+	border-top: 1px solid #ccc;
+	}
+#nav li {
+	float: left;
+margin-right:10px;
+	}
+	
+#nav li a {
+	display: block;
+	padding: 8px 15px;
+	text-decoration: none;
+	font-weight: bold;
+	color: #fff;
+}
+#nav li a:hover {
+	color: #c00;
+	background-color: #fff; }
+	
+#contentHolder {
+
+width: 100%;
+
+}
+	
+	#content {
+	
+		width: 800px;
+
+  margin-left: auto ;
+  margin-right: auto ;
+	
+	}
+	
+	
+	table { 
+color: #333; /* Lighten up font color */
+font-family: Helvetica, Arial, sans-serif; /* Nicer font */
+width: 640px; 
+border-collapse: 
+collapse; border-spacing: 0; 
+}
+
+td, th { border: 1px solid #CCC; height: 30px; } /* Make cells a bit taller */
+
+th {
+background: #F3F3F3; /* Light grey background */
+font-weight: bold; /* Make sure they're bold */
+}
+
+td {
+background: #FAFAFA; /* Lighter grey background */
+text-align: center; /* Center our text */
+}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
